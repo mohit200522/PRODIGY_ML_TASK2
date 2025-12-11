@@ -1,1 +1,14 @@
+# 📝 **Task-02**
+
+Implement a **K-Means Clustering model** to segment customers based on:
+
+their **Age**, **Annual Income**, and **Spending Score**.
+
+**Goal:** Group customers into meaningful clusters to understand buying behavior and create targeted marketing strategies.
+
+### **Dataset Link:**
+
+🔗 [https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+
+
 
